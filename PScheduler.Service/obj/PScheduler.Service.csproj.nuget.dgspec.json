@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Service\\PScheduler.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\PScheduler.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\PScheduler.Domain.csproj",
+        "projectName": "PScheduler.Domain",
+        "projectPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\PScheduler.Domain.csproj",
+        "packagesPath": "C:\\Users\\htoonandar\\.nuget\\packages\\",
+        "outputPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\htoonandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repo-manager.abdev.net/repository/nuget-hosted/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Service\\PScheduler.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Service\\PScheduler.Service.csproj",
+        "projectName": "PScheduler.Service",
+        "projectPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Service\\PScheduler.Service.csproj",
+        "packagesPath": "C:\\Users\\htoonandar\\.nuget\\packages\\",
+        "outputPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\htoonandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repo-manager.abdev.net/repository/nuget-hosted/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\PScheduler.Domain.csproj": {
+                "projectPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\PScheduler.Domain.csproj"
+              },
+              "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler\\PScheduler.csproj": {
+                "projectPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler\\PScheduler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.6.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler\\PScheduler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler\\PScheduler.csproj",
+        "projectName": "PScheduler",
+        "projectPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler\\PScheduler.csproj",
+        "packagesPath": "C:\\Users\\htoonandar\\.nuget\\packages\\",
+        "outputPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\htoonandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repo-manager.abdev.net/repository/nuget-hosted/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\PScheduler.Domain.csproj": {
+                "projectPath": "D:\\ABankProject\\Projects\\TestGitProjects\\PSScheduler\\PScheduler.Domain\\PScheduler.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.6.2, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

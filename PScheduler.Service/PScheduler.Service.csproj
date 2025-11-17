@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Npgsql" Version="7.0.4" />
+    <PackageReference Include="Quartz" Version="3.6.2" />
+    <PackageReference Include="Serilog" Version="2.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PScheduler.Domain\PScheduler.Domain.csproj" />
+    <ProjectReference Include="..\PScheduler\PScheduler.csproj" />
+  </ItemGroup>
+
+</Project>

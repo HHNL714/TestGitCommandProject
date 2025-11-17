@@ -1,0 +1,12 @@
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\bin\Debug\net6.0\PScheduler.Domain.deps.json
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\bin\Debug\net6.0\PScheduler.Domain.dll
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\bin\Debug\net6.0\PScheduler.Domain.pdb
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\PScheduler.Domain.csproj.AssemblyReference.cache
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\PScheduler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\PScheduler.Domain.AssemblyInfoInputs.cache
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\PScheduler.Domain.AssemblyInfo.cs
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\PScheduler.Domain.csproj.CoreCompileInputs.cache
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\PScheduler.Domain.dll
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\refint\PScheduler.Domain.dll
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\PScheduler.Domain.pdb
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler.Domain\obj\Debug\net6.0\ref\PScheduler.Domain.dll

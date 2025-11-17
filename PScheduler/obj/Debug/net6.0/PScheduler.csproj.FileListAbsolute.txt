@@ -1,0 +1,6 @@
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler\obj\Debug\net6.0\PScheduler.csproj.AssemblyReference.cache
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler\obj\Debug\net6.0\PScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler\obj\Debug\net6.0\PScheduler.AssemblyInfoInputs.cache
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler\obj\Debug\net6.0\PScheduler.AssemblyInfo.cs
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler\obj\Debug\net6.0\PScheduler.csproj.CoreCompileInputs.cache
+D:\ABankProject\Projects\Test Projects\PScheduler\PScheduler\obj\Debug\net6.0\PScheduler.MvcApplicationPartsAssemblyInfo.cache

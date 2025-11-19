@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PScheduler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5f3ec15e19071b25d88af726a1d1c4c429d2280")]
 [assembly: System.Reflection.AssemblyProductAttribute("PScheduler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PScheduler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
